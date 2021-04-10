@@ -1,2 +1,8 @@
-.venv
-*.csv
+# ignore everything
+*
+
+# but not these
+!.gitignore
+!requirements.txt
+!README.md
+!*.py
